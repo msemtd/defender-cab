@@ -25,18 +25,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="2028.8346"
-     inkscape:cy="591.89418"
+     inkscape:cx="1018.7255"
+     inkscape:cy="1842.4388"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1024"
+     inkscape:window-height="720"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -46,7 +46,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-nodes="true"
-     inkscape:snap-grids="true">
+     inkscape:snap-grids="false">
     <inkscape:grid
        type="xygrid"
        id="grid3754"
@@ -115,14 +115,17 @@
        width="472.5"
        height="269.9946"
        x="320"
-       y="-987.63904" />
+       y="-987.63904"
+       sodipodi:insensitive="true" />
     <rect
        y="-987.63898"
        x="1782.1134"
        height="337.49438"
        width="742.80896"
-       id="rect2996"
-       style="fill:none;stroke:#000000;stroke-width:0.54000026;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       id="orig-smart"
+       style="fill:none;stroke:#000000;stroke-width:0.54000026;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:insensitive="true"
+       inkscape:label="#rect2996" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.54000026;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2998"
@@ -139,12 +142,14 @@
        style="fill:none;stroke:#000000;stroke-width:0.54000026;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.54000026;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3012"
+       id="orig-reverse"
        width="382.49991"
        height="652.49396"
        x="-650.13892"
        y="-972.41638"
-       transform="matrix(0,1,-1,0,0,0)" />
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:label="#rect3012"
+       sodipodi:insensitive="true" />
     <rect
        transform="matrix(0,1,-1,0,0,0)"
        y="-837.49915"
@@ -154,8 +159,8 @@
        id="rect3018"
        style="fill:#ff00ff;stroke:#000000;stroke-width:0.54000026;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       transform="matrix(1.2656153,0,0,1.2656215,618.0441,-2048.3018)"
-       d="m 320,1104.7244 c 0,22.0914 -17.90861,40 -40,40 -22.09139,0 -40,-17.9086 -40,-40 0,-22.0914 17.90861,-40 40,-40 22.09139,0 40,17.9086 40,40 z"
+       transform="matrix(1.2401573,0,0,1.2401577,643.65711,-2019.1526)"
+       d="m 320,1104.7244 a 40,40 0 1 1 -80,0 40,40 0 1 1 80,0 z"
        sodipodi:ry="40"
        sodipodi:rx="40"
        sodipodi:cy="1104.7244"
@@ -274,22 +279,23 @@
          id="tspan3026">Player 2</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3030"
+       id="orig-hyp"
        width="90"
        height="180"
        x="1332.3448"
-       y="-447.63898" />
+       y="-447.63898"
+       inkscape:label="#rect3030" />
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-       x="947.11914"
-       y="-587.27185"
+       x="974.56683"
+       y="-587.84979"
        id="text3032"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3034"
-         x="947.11914"
-         y="-587.27185">Reverse</tspan></text>
+         x="974.56683"
+         y="-587.84979">Reverse</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3036"
@@ -313,18 +319,20 @@
        transform="translate(-158.57185,-1048.2626)" />
     <rect
        style="fill:none;stroke:#000000;stroke-opacity:1"
-       id="rect3038"
+       id="sanwa-plastic"
        width="230.31496"
        height="230.31496"
        x="699.8421"
-       y="-889.05286" />
+       y="-889.05286"
+       inkscape:label="#rect3038" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
-       id="rect3040"
+       id="sanwa-plate"
        width="340.15744"
        height="276.37796"
        x="644.92084"
-       y="-912.08435" />
+       y="-912.08435"
+       inkscape:label="#rect3040" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
        d="m 1594.4882,-12.967098 708.6616,-110.152822 0,325.08733 -708.6616,0 z"
@@ -363,5 +371,13 @@
        id="path3023"
        d="m 1594.4882,343.69955 708.6614,-106.29921 0,283.46456 -708.6614,0 z"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.67658722;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="new-reverse-top-left"
+       width="581.4505"
+       height="288.90421"
+       x="359.84439"
+       y="-987.63068"
+       inkscape:label="#rect3022" />
   </g>
 </svg>
