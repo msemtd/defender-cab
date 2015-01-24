@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2104.7244"
+   height="1488.189"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="defend-mon-stack.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="969.89155"
+     inkscape:cy="695.02671"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-grids="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2982"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="10mm"
+       spacingy="10mm" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="354.33071,1098.4252"
+       id="guide2988" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,435.8268)">
+    <rect
+       style="fill:#ff00ff;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2984"
+       width="1289.7638"
+       height="141.73228"
+       x="354.33072"
+       y="520.86609" />
+    <rect
+       y="379.26932"
+       x="354.33072"
+       height="70.595108"
+       width="1289.7638"
+       id="rect2990"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.54000002000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2992"
+       width="1289.7638"
+       height="70.595108"
+       x="354.33072"
+       y="-258.66147" />
+    <rect
+       y="-364.96066"
+       x="354.33072"
+       height="70.595108"
+       width="1289.7638"
+       id="rect2994"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       y="-116.92812"
+       x="333.07086"
+       height="70.866127"
+       width="1332.2834"
+       id="rect2996"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2998"
+       width="1332.2834"
+       height="70.866127"
+       x="333.07086"
+       y="271.07187" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="451.42856"
+       y="485.33182"
+       id="text3000"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-435.8268)"><tspan
+         sodipodi:role="line"
+         id="tspan3002"
+         x="451.42856"
+         y="485.33182">Monitor Stack  - set monitor depth exact - use width 364</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3004"
+       y="591.505"
+       x="451.42856"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       xml:space="preserve"><tspan
+         y="591.505"
+         x="451.42856"
+         id="tspan3006"
+         sodipodi:role="line">Base plate - deep</tspan></text>
+    <rect
+       y="735.89008"
+       x="354.33072"
+       height="86.603317"
+       width="1289.7638"
+       id="rect3012"
+       style="fill:#ffff00;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="451.42856"
+       y="231.505"
+       id="text3014"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3016"
+         x="451.42856"
+         y="231.505">immediate top and bottom plates notch into side plates</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="451.42856"
+       y="431.505"
+       id="text3018"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3020"
+         x="451.42856"
+         y="431.505">filler plate 1 of 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="451.42856"
+       y="791.505"
+       id="text3008"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3010"
+         x="451.42856"
+         y="791.505">Retainer</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3022"
+       y="-208.495"
+       x="451.42856"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       xml:space="preserve"><tspan
+         y="-208.495"
+         x="451.42856"
+         id="tspan3024"
+         sodipodi:role="line">filler plate 1 of 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="451.42856"
+       y="-318.495"
+       id="text3026"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3028"
+         x="451.42856"
+         y="-318.495">filler plate 1 of 3</tspan></text>
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3030"
+       width="141.73228"
+       height="1275.606"
+       x="70.866142"
+       y="-364.96838" />
+    <rect
+       y="-258.66147"
+       x="70.866142"
+       height="1048.8188"
+       width="70.866142"
+       id="rect3032"
+       style="fill:#ffff00;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.53999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3034"
+       width="70.866142"
+       height="20.730513"
+       x="70.866142"
+       y="790.15735" />
+    <rect
+       y="-279.39197"
+       x="70.866142"
+       height="20.730513"
+       width="70.866142"
+       id="rect3036"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.53999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.53999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3038"
+       width="70.866142"
+       height="20.730513"
+       x="-187.79532"
+       y="-162.4628"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-162.4628"
+       x="60.236179"
+       height="20.730513"
+       width="70.866142"
+       id="rect3040"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.53999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.53999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3042"
+       width="70.866142"
+       height="20.730513"
+       x="414.56689"
+       y="-162.4628"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-162.4628"
+       x="662.59839"
+       height="20.730513"
+       width="70.866142"
+       id="rect3044"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.53999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="32.515102"
+       y="-372.84882"
+       id="text3046"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="32.515102"
+         y="-372.84882"
+         id="tspan3050">Side plate</tspan></text>
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 1741.7812,-364.98305 0,85.59375 70.875,0 0,20.71875 -70.875,0 0,1048.81255 70.875,0 0,20.75 -70.875,0 0,99.75 141.75,0 0,-1275.62505 -141.75,0 z m 70.875,177.1875 20.7188,0 0,70.875 -20.7188,0 0,-70.875 z m 0,248.03125 20.7188,0 0,70.875 -20.7188,0 0,-70.875 z m 0,354.34375 20.7188,0 0,70.84375 -20.7188,0 0,-70.84375 z m 0,248.03125 20.7188,0 0,70.8437 -20.7188,0 0,-70.8437 z"
+       id="rect3054"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3082"
+       d="m 2043.5312,-364.98305 0,85.59375 -70.875,0 0,20.71875 70.875,0 0,1048.81255 -70.875,0 0,20.75 70.875,0 0,99.75 -141.75,0 0,-1275.62505 141.75,0 z m -70.875,177.1875 -20.7188,0 0,70.875 20.7188,0 0,-70.875 z m 0,248.03125 -20.7188,0 0,70.875 20.7188,0 0,-70.875 z m 0,354.34375 -20.7188,0 0,70.84375 20.7188,0 0,-70.84375 z m 0,248.03125 -20.7188,0 0,70.8437 20.7188,0 0,-70.8437 z"
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3084"
+       y="-372.84882"
+       x="1772.5151"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       xml:space="preserve"><tspan
+         id="tspan3086"
+         y="-372.84882"
+         x="1772.5151"
+         sodipodi:role="line">Side plates</tspan></text>
+  </g>
+</svg>
