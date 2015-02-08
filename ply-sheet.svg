@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4212.9922"
+   height="2979.9211"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="ply-sheet.svg">
+  <title
+     id="title2987">Laser A0 Template</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.69977474"
+     inkscape:cx="535.08767"
+     inkscape:cy="2130.0057"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     width="1200mm"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-grids="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="1mm"
+       spacingy="1mm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Laser A0 Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,1927.5603)">
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2992"
+       width="1289.7638"
+       height="1056.3279"
+       x="460.62991"
+       y="-1304.0708" />
+    <path
+       style="opacity:0.52105264;fill:#0000ff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;display:none"
+       d="m 1299.6709,-2249.823 -1684.81255,496.8437 -608.09375,652.875 0,5198.9376 2343.4063,0 0,-1891.375 362.9062,-180.0313 0,-1665.78122 -579.2188,-88.8125 -396.5937,-1526.53128 562.4063,-276.0313 0,-720.0937 z"
+       id="path4179"
+       inkscape:connector-curvature="0"
+       sodipodi:insensitive="true" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000080;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="4344.8491"
+       height="2165.3542"
+       x="35.433071"
+       y="-1888.584" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3023"
+       d="m 1842.5197,95.66789 -708.6614,-106.2992 0,283.46459 708.6614,0 z"
+       style="fill:#00ffff;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke:#000080;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 602.3622,-1463.3872 396.00968,1524.375128 -396.00968,0 z"
+       id="rect3028"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#000080;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3050"
+       width="248.03145"
+       height="425.19684"
+       x="602.36224"
+       y="-1888.5839" />
+    <path
+       style="fill:#80005d;fill-opacity:0.37016578;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1080.7087,1916.929 0,283.4646 -1045.275629,3.937 L 31.272647,1117.0192 33.183359,166.98526 566.92913,74.409332 814.96063,38.976261 850.3937,464.17311 602.3622,499.60618 956.69291,1881.4959 z"
+       id="path3052"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       transform="translate(0,-1927.5603)" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke:#000080;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 637.79528,-4478.7415 10e-6,719.9998 -562.500002,279 -487.856778,-263.325 -445.89323,-240.6748 z"
+       id="rect3054"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke:#000080;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1"
+       d="m -858.45472,-3980.1982 0,652.5 -607.49998,0 z"
+       id="rect3056"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#000080;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3060"
+       width="360"
+       height="720"
+       x="637.79529"
+       y="-4478.7417" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke:#000080;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 75.295288,-3758.7417 562.500002,0 -562.500002,279 z"
+       id="rect3062"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       y="-1081.8705"
+       x="771.77728"
+       height="1048.8188"
+       width="70.866142"
+       id="rect3032"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0.96882381,-0.24775073,0.24775073,0.96882381,0,0)"
+       inkscape:transform-center-x="-280.90763"
+       inkscape:transform-center-y="-119.58045" />
+    <rect
+       style="opacity:0.52105264;fill:#80005d;fill-opacity:0.37016578;stroke:#000080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4141"
+       width="17.716536"
+       height="283.46457"
+       x="1098.4252"
+       y="1916.9291"
+       transform="translate(0,-1927.5603)" />
+  </g>
+</svg>
