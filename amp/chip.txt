@@ -1,0 +1,16 @@
+n.c. 1 not connected
+VC1 2 DC volume control 1
+n.c. 3 not connected
+VI_(1) 4 voltage input 1
+VP 5 positive supply voltage
+VI_(2) 6 voltage input 2
+SGND 7 signal ground
+VC2 8 DC volume control 2
+OUT2+ 9 positive output 2
+PGND2 10 power ground 2
+n.c. 11 not connected
+OUT2- 12 negative output 2
+OUT1- 13 negative output 1
+PGND1 14 power ground 1
+n.c. 15 not connected
+OUT1+ 16 positive output 1
