@@ -1,0 +1,24 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 24/02/2015 13:07:09
+#Cmp ( order = Reference )
+| C1         220uF       
+| C2         100nF       
+| C?         1uF         
+| K?         CONN_3      
+| R?         5k          
+| SP?        SPEAKER     
+| U?         TDA7053A    
+| VOL        22k         
+#End Cmp
+
+#Cmp ( order = Value )
+| 100nF        C2        
+| 220uF        C1        
+| 1uF          C?        
+| CONN_3       K?        
+| 5k           R?        
+| SPEAKER      SP?       
+| TDA7053A     U?        
+| 22k          VOL       
+#End Cmp
+
+#End List
