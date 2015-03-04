@@ -3,7 +3,7 @@
   (general
     (links 28)
     (no_connects 28)
-    (area 13.8938 32.689799 154.000201 71.729601)
+    (area 13.8938 31.140399 101.6762 61.976)
     (thickness 1.6)
     (drawings 0)
     (tracks 0)
@@ -123,7 +123,7 @@
   )
 
   (module SO16W (layer F.Cu) (tedit 4280704F) (tstamp 54ECDFA2)
-    (at 85.09 40.64 270)
+    (at 54.61 41.91 270)
     (descr "Module CMS SOJ 16 pins tres large")
     (tags "CMS SOJ")
     (path /54EAF5D7)
@@ -209,7 +209,7 @@
   )
 
   (module R4 (layer F.Cu) (tedit 200000) (tstamp 54ECDFB0)
-    (at 24.13 55.88 270)
+    (at 21.59 55.88 270)
     (descr "Resitance 4 pas")
     (tags R)
     (path /54EB373F)
@@ -244,7 +244,7 @@
   )
 
   (module R4 (layer F.Cu) (tedit 200000) (tstamp 54ECDFBE)
-    (at 27.94 55.88 270)
+    (at 24.13 55.88 270)
     (descr "Resitance 4 pas")
     (tags R)
     (path /54EB379B)
@@ -279,7 +279,7 @@
   )
 
   (module R4 (layer F.Cu) (tedit 54EC84EE) (tstamp 54ECDFCC)
-    (at 45.72 39.37 270)
+    (at 34.29 39.37 270)
     (descr "Resitance 4 pas")
     (tags R)
     (path /54EB3BDD)
@@ -314,7 +314,7 @@
   )
 
   (module POT_CMS (layer F.Cu) (tedit 54EC83CD) (tstamp 54ECDFDA)
-    (at 48.26 55.88 270)
+    (at 41.91 54.61 270)
     (descr "module CMS Potentiometre")
     (tags "CMS POT")
     (path /54EB3F06)
@@ -382,7 +382,7 @@
   )
 
   (module PIN_ARRAY_2X1 (layer F.Cu) (tedit 4565C520) (tstamp 54ECDFF0)
-    (at 99.06 36.83 270)
+    (at 68.58 38.1 270)
     (descr "Connecteurs 2 pins")
     (tags "CONN DEV")
     (path /54EAFCCA)
@@ -412,7 +412,7 @@
   )
 
   (module PIN_ARRAY_2X1 (layer F.Cu) (tedit 4565C520) (tstamp 54ECDFFA)
-    (at 99.06 46.99 90)
+    (at 68.58 48.26 90)
     (descr "Connecteurs 2 pins")
     (tags "CONN DEV")
     (path /54EAFCD7)
@@ -442,7 +442,7 @@
   )
 
   (module C2 (layer F.Cu) (tedit 54EC8549) (tstamp 54ECE005)
-    (at 26.67 41.91 180)
+    (at 41.91 40.64 180)
     (descr "Condensateur = 2 pas")
     (tags C)
     (path /54EB3862)
@@ -473,7 +473,7 @@
   )
 
   (module C2 (layer F.Cu) (tedit 200000) (tstamp 54ECE010)
-    (at 26.67 45.72 180)
+    (at 41.91 44.45 180)
     (descr "Condensateur = 2 pas")
     (tags C)
     (path /54EB3891)
@@ -504,7 +504,7 @@
   )
 
   (module C1V8 (layer F.Cu) (tedit 3DD3A719) (tstamp 54ECE018)
-    (at 69.85 35.56 270)
+    (at 27.94 35.56 270)
     (path /54EB3CBE)
     (fp_text reference C5 (at 0 2.032 270) (layer F.SilkS)
       (effects (font (size 1.016 0.889) (thickness 0.2032)))
@@ -532,7 +532,7 @@
   )
 
   (module C1V8 (layer F.Cu) (tedit 54EC8460) (tstamp 54ECE020)
-    (at 69.85 45.72 270)
+    (at 30.48 55.88 270)
     (path /54EB3FB1)
     (fp_text reference C3 (at 0 2.032 270) (layer F.SilkS)
       (effects (font (size 1.016 0.889) (thickness 0.2032)))
@@ -560,7 +560,7 @@
   )
 
   (module C1 (layer F.Cu) (tedit 3F92C496) (tstamp 54ECE02B)
-    (at 53.34 35.56 270)
+    (at 20.32 35.56 270)
     (descr "Condensateur e = 1 pas")
     (tags C)
     (path /54EB3C83)
