@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 25/02/2015 14:20:17
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 05/03/2015 10:21:30
 
 BeginCmp
 TimeStamp = /54EB3862;
@@ -38,15 +38,29 @@ EndCmp
 BeginCmp
 TimeStamp = /54EB3674;
 Reference = K1;
-ValeurCmp = CONN_3;
+ValeurCmp = STEREO;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F82B1F;
+Reference = K2;
+ValeurCmp = CONN_VOL;
 IdModule  = PIN_ARRAY_3X1;
 EndCmp
 
 BeginCmp
 TimeStamp = /54EC8FA6;
-Reference = POWER1;
-ValeurCmp = CONN_2;
+Reference = K3;
+ValeurCmp = PWR_6V;
 IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F823FA;
+Reference = PCB1;
+ValeurCmp = PCB_DP_SQUARE-5X5;
+IdModule  = dp_devices-DP5050_V1;
 EndCmp
 
 BeginCmp
@@ -95,7 +109,7 @@ BeginCmp
 TimeStamp = /54EB3F06;
 Reference = VOL1;
 ValeurCmp = 22k;
-IdModule  = POT_CMS;
+IdModule  = PIN_ARRAY_3X1;
 EndCmp
 
 EndListe
